@@ -1,0 +1,7 @@
+<h2>AJAX</h2>
+
+<p>AJAX är inte ett programmeringspråk.</p>
+
+<p>AJAX är en teknik för att accessa webbservern från en webbplats.</p>
+
+<p>AJAX står för <b>Asyncronous JavaScript And XML</b>.</p>
